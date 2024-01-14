@@ -1,1 +1,1 @@
-# gru_rnn
+# GRU RNN implementation and testing playground
